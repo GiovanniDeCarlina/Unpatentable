@@ -10,8 +10,8 @@ Here is an example question:
 
 ### There is a possibility (percentage. Can be 100%) that something can be either True or False, but never both? Is there an example in Mathmatics the supports this statement? 
 
-A: False
-B: True
+[ ]  False - URL
+[ ]  True - URL
 
 
 (fwiw, the stuff below came with the "hey fund me" button. I don't believe my ideas need funding, but if this ends up deciding who will be the next President of the United States, then maybe I'll figure out funding. K THX BYE. Just answer the question will ya'? Clock's ticking.....)
